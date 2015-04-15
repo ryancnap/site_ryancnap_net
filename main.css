@@ -1,0 +1,41 @@
+body {
+	background-color: #B5B59D;
+	clear: both;
+	font-family: arial;
+}
+
+nav ul li {
+	display: inline-block;
+	float: left;
+	border-radius: 0%;
+	width: 15%;
+	height: 5%;
+	padding: 1%;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: black;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+h1 {
+	padding-top: 1%;
+	clear: both;
+},
+
+
+h3 {
+	clear: both;
+	color: blue;
+}
+
+#blogpost {
+	background-color: #FFFFFF;
+	color: #FFFFFF;
+	width: 10%;
+	height: 5%;
+	clear: both;
+}
