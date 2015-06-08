@@ -1,5 +1,5 @@
 body {
-	background-color: #B5B59D;
+	background-color: #008080;
 	clear: both;
 	font-family: helvetica;
 }
@@ -25,29 +25,35 @@ nav ul li a {
 }
 
 h1 {
+	margin-left: 0.75%;
+	font-family: sans-serif;
 	padding-top: 1%;
+	color: white;
 	clear: both;
 }
 
 #article_title {
-	margin:2%;
-	color: navy;
+	margin:0.75%;
+	color: white;
 }
 
 #article_container {
-	margin: 2%;
+
+	vertical-align: center;
+	margin: 0.75%;
 	background-color: white;
 	border-radius: 5px;
 	border-style: solid;
-	border-color: navy;
-	width: 90%;
+	border-color: white;
+	width: 95%;
 	text-align: left;
 
 }
 
 #article_text {
+
 	padding-left: 2%;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 27px;
 	font-family: helvetica;
 }
@@ -61,7 +67,8 @@ h1 {
 	text-shadow:#333 1px 1px;
 }
 
-footer {
+footer div p em {
+
 	padding-left: 2%;
 	width: 100%;
 	background-color: black;
