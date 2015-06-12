@@ -38,7 +38,6 @@ h1 {
 }
 
 #article_container {
-
 	vertical-align: center;
 	margin: 0.75%;
 	background-color: white;
@@ -51,11 +50,14 @@ h1 {
 }
 
 #article_text {
-
 	padding-left: 2%;
 	font-size: 18px;
 	line-height: 27px;
 	font-family: helvetica;
+}
+
+#game {
+
 }
 
 .drop_cap {
